@@ -1,0 +1,2 @@
+This is a new line written using write()
+This line is being appended to Loyola.txt
